@@ -1,5 +1,5 @@
 # Guess the Number
-It is a digital clock built using  [![Libraries](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
+It is a basic number guessing game built using  [![Libraries](https://skills.thijs.gg/icons?i=html,css,js)](https://skills.thijs.gg)
 <hr>
 <h4>Click on the game</h4> 
 <a href="https://indrarjun.github.io/Guess_Number/" target="_blank" rel="noopener noreferrer">
