@@ -8,4 +8,5 @@ It is a digital clock built using  [![Libraries](https://skills.thijs.gg/icons?i
 <hr>
 
 ## Sample Image
-<img src="Sample Images/sample.png">
+<img src="Sample-Images/sample_1.png">
+<img src="Sample-Images/sample2.png">
